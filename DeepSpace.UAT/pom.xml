@@ -5,7 +5,7 @@
   <groupId>com.microsoft.tfs.demo</groupId>
   <artifactId>DeepSpace.UAT</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>Deep Space Bootcamp Sample App User Acceptance Tests</name>
   <url>http://java.visualstudio.com</url>
